@@ -1,0 +1,51 @@
+body{
+    margin: 0%;
+    margin-top: 0px;
+}
+
+.nome{
+width: 100%;
+height: auto;
+background-color: rgb(236, 145, 0);
+text-align:center;
+
+}
+.nome h2{
+    margin-bottom: 0%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+}
+.nome h1{
+    margin-top: 0%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-size:xx-large;
+
+}
+
+.Soft-skills{
+    width: 25%;
+    height: auto;
+    background-color:rgb(255, 255, 255);
+    text-align:justify;
+    position: absolute;
+    left: 25%;
+}
+
+.FormaçãoAcadêmica{
+    width: 25%;
+    height: auto;
+    background-color:rgb(255, 255, 255);
+    text-align:justify;
+    position: absolute;  
+}
+
+.FotoESaibaMais{
+    background-color: yellow;
+    left: 60%;
+
+}
+.FotoESaibaMais img{
+        border-radius: 50%;
+        position: absolute;
+        left: 70%;
+    }
